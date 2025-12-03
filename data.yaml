@@ -1,0 +1,9 @@
+path: pin_defect
+
+names:
+  0: nodefect
+  1: defect
+
+nc: 2
+train: images/train
+val: images/val
