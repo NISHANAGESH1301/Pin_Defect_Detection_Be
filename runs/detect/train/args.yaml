@@ -103,4 +103,4 @@ auto_augment: randaugment
 erasing: 0.4
 cfg: null
 tracker: botsort.yaml
-save_dir: C:\Users\HNNisha(893)\Documents\Pin_Defect\runs\detect\train
+save_dir: C:\Users\HNNisha(893)\Documents\Private_Repo\Pin_Defect\Pin_Defect_Detection_Be\runs\detect\train

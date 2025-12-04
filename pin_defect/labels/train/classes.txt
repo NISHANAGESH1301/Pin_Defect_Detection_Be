@@ -1,1 +1,1 @@
-defect
+insulation_damage
