@@ -1,7 +1,7 @@
 path: pin_defect
 
 names:
-  0: defect
+  0: insulation_damage
 
 nc: 1
 train: images/train
